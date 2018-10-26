@@ -17,6 +17,7 @@
 *.tar.gz
 *.rar
 
+*/bin/
 # Cert Files #
 */cert/
 *.p12
