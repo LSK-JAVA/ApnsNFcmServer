@@ -14,4 +14,4 @@ APNS : 1. develop - gateway.sandbox.push.apple.com
        
        3. Port - 2195
        
-       아이피는 계속 변경되므로 꾸준히 업데이트를 요함. redmine webhoot
+       아이피는 계속 변경되므로 꾸준히 업데이트를 요함.
